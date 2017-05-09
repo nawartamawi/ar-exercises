@@ -14,7 +14,7 @@ burnaby = Store.create(
 
 richmond = Store.create(
   name: 'Richmond',
-  annual_revenue: 126000,
+  annual_revenue: 1260000,
   mens_apparel: false,
   womens_apparel: true
 )
