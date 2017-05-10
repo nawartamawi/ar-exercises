@@ -10,3 +10,7 @@ puts "----------"
 @store3.destroy
 
 puts Store.count
+
+# Store.doStuff
+
+# @store3.doStuff
